@@ -1,0 +1,13 @@
+{
+  "name": "webpack4-split-css-vendor",
+  "scripts": {
+    "run": "honeypack run"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "honeypack": "1.0.1",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
+    "mini-css-extract-plugin": "^0.4.2"
+  }
+}
